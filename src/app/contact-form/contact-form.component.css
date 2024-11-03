@@ -1,0 +1,28 @@
+
+/* Fondo del formulario de contacto */
+.contact-form {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    max-width: 500px;
+    margin: 50px auto;
+}
+
+/* Estilos para el título del formulario */
+.contact-form h2 {
+    text-align: center;
+    color: #1a73e8;
+    font-weight: bold;
+}
+
+/* Estilos para el botón de envío */
+.contact-form .btn-primary {
+    background-color: #1a73e8;
+    border-color: #1a73e8;
+}
+
+/* Estilo del mensaje de error en reCAPTCHA */
+.contact-form .text-danger {
+    font-size: 0.9em;
+}
